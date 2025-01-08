@@ -27,7 +27,7 @@ O objetivo do curso é introduzir os conceitos básicos de Java e mostrar como c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-primeira-aplicacao.git
+   git clone https://github.com/seu-usuario/Java-criando-a-sua-primeira-aplicao.git
 Abra o projeto no IntelliJ IDEA.
 Configure o JDK (Java Development Kit) caso necessário.
 Execute os arquivos .java para ver o funcionamento dos exemplos e projetos.
